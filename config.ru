@@ -1,3 +1,3 @@
-require_relative "./application.rb"
+require_relative './application.rb'
 
 run Application.new
